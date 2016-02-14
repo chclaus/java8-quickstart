@@ -7,7 +7,7 @@
   <version>${version}</version>
   <packaging>jar</packaging>
 
-  <name>${artifactId}}</name>
+  <name>${artifactId}</name>
   <url>http://www.chclaus.de</url>
 
   <properties>
